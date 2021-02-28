@@ -6,4 +6,4 @@
 
 Пример:
 
-http://artox.test/api/venues?latitude=-74.226849&longitude=150.840386&radius=10000]
+http://artox.test/api/venues?latitude=-74.226849&longitude=150.840386&radius=10000
